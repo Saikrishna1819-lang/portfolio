@@ -21,7 +21,7 @@ const Experience = () => {
           
                     timeline="June 2024 - July 2024"
                     location="Remote"
-                    des="Completed in-depth coursework in Data Structures & Algorithms, Full Stack Web Development,   and Database Systems. Focused on building scalable applications and exploring AI-driven solutions with practical, project-based learning."
+                    des="Developed a secure Online Voting System with responsive UI using HTML, CSS, and JavaScript; implemented features like voter authentication and form validation while gaining hands-on experience in frontend development and UI/UX."
         
                      />
                      
