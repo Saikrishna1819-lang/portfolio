@@ -1,7 +1,7 @@
 import React from 'react'
 import Title from '../layouts/Title'
 import ProjectCard from './ProjectCard'
-import {projectOne,projectTwo} from "../../assets/index"
+import {projectOne,projectTwo,projectThree} from "../../assets/index"
 
 
 const Project = () => {
@@ -29,6 +29,14 @@ Users can swipe through profiles, send requests, and chat in real-time.
 It helps showcase skills and build a strong developer network."
 src={projectTwo}
     />
+    <ProjectCard 
+  title="Prescripto"
+  github="https://github.com/Saikrishna1819-lang/Prescripto"
+  link="https://prescripto-0w3n.onrender.com"
+  des="Prescripto is a medical appointment management app for doctors and admins. It offers secure login, appointment tracking, and doctor dashboards."
+  src={projectThree}
+/>
+
      
     
  
