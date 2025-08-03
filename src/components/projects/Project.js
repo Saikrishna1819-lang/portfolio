@@ -33,7 +33,9 @@ src={projectTwo}
   title="Prescripto"
   github="https://github.com/Saikrishna1819-lang/Prescripto"
   link="https://prescripto-0w3n.onrender.com"
-  des="Prescripto is a medical appointment management app for doctors and admins. It offers secure login, appointment tracking, and doctor dashboards."
+  des="Developed a full-stack doctor appointment platform where patients can book appointments with doctors based on
+ availability.
+ • Implemented user roles for Admin, Doctor, and Patient with secure JWT-based authentication "
   src={projectThree}
 />
 
